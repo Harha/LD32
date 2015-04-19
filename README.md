@@ -9,6 +9,6 @@ Only thing that's working is the level editor.
 
 I gave up, mainly I suck at drawing pixel art, which is just too furstrating.
 
-![alt tag](https://raw.githubusercontent.com/Harha/JPath/master/renders/JPathRender_SPP1528_SS_true_SSAMOUNT_4.png)
+![alt tag](https://raw.githubusercontent.com/Harha/LD32/master/ld32.png)
 
 The sprites used as a test aren't mine.
